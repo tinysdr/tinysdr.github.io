@@ -874,7 +874,7 @@ header {
 	position: relative;
 }
 .banner_bg img{
-	opacity: 0.1;
+	opacity: 0;
 }
 .banner-detail {
 	left: 0;
